@@ -1,0 +1,37 @@
+input{
+    width: 208px;
+    background-color: rgb(195,194,171);
+    border-radius: 20px;
+    
+}
+
+.calc{
+    background-color: rgb(223,216,208);
+    text-align: center;
+    margin:100px 550px ;
+    border-radius: 20px;
+    padding:40px 20px 25px 20px;
+}
+table{
+   margin: auto;
+}
+
+
+#delet , #delet1{
+    background-color: rgb(167,45,69);
+}
+
+button{
+    background-color:rgb(59,59,59);
+    height:50px;
+    width: 50px;
+    color:white;
+    border-radius: 20px;
+}
+
+#rovno{
+    height:100px;
+}
+#click0{
+     width: 100px;
+}
